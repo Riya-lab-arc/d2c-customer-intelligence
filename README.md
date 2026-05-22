@@ -11,9 +11,6 @@ By combining Python, SQL, and Power BI, the project identifies high-value custom
 
 ## Technical Stack & Workflow
 
-### Isolated Environment (`venv`)
-Built inside a dedicated virtual environment to manage dependencies and maintain a clean analytical workflow.
-
 ### Feature Engineering Engine (`Python`)
 - Cleaned and standardized transactional datasets
 - Engineered strategic business metrics:
